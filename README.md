@@ -1,5 +1,7 @@
 # About Wine
 
+[All about wine](https://github.com/deniis786/Milestone-Project.git)
+
 ## General information
 
 This website was built to facilitate the production of wine at home in 3 simple steps. Contains information about the necessary equipment and its use, the choice of fruits, their preparation and the fermentation process.
@@ -50,4 +52,8 @@ This website was built to facilitate the production of wine at home in 3 simple 
 * Tested manual on Firefox and Microsoft Edge
 
 ## Code
+
+### Credit
+
+
 
