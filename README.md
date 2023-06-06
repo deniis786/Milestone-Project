@@ -1,6 +1,6 @@
 # About Wine
 
-[All about wine](https://github.com/deniis786/Milestone-Project.git)
+[All about wine live project]( https://deniis786.github.io/Milestone-Project/)
 
 ## General information
 
@@ -45,15 +45,40 @@ This website was built to facilitate the production of wine at home in 3 simple 
 
 * Tested on Google Chrome for performance and compatibility on media devices
 
-<img src="assets/pictures/Screenshot1.jpg" alt="css validator">
+<img src="assets/pictures/Screenshot1.jpg" alt="lighthouse">
 
-<img src="assets/pictures/Screenshot4.jpg" alt="css validator">
+<img src="assets/pictures/Screenshot4.jpg" alt="lighthouse">
+
+<img src="assets/pictures/Screenshot2.jpg" alt="lighthouse">
+
+<img src="assets/pictures/Screenshot3.jpg" alt="lighthouse">
+
+<img src="assets/pictures/Screenshot5.jpg" alt="lighthouse">
+
+<img src="assets/pictures/Screenshot6.jpg" alt="lighthouse">
 
 * Tested manual on Firefox and Microsoft Edge
 
 ## Code
 
 ### Credit
+
+* Using codes from [Bootsrap](https://getbootstrap.com/) for navbar, layouts and compatibility of website on different devices
+
+* Codes from *LOVE RUNNING* project, author [Code Institute](https://codeinstitute.net/) for styling and construction of gallery.html, form.html and index.html
+
+* Using images for the website from [unsplash](https://unsplash.com/s/photos/wine)
+
+* Using texts for paragraphs from [Make-Homemade-Wine](https://www.wikihow.com/Make-Homemade-Wine)
+
+* [Google fonts](https://fonts.google.com/)
+
+* [Font Awesome](https://fontawesome.com/)
+
+
+
+
+
 
 
 
