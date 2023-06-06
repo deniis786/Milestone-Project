@@ -65,7 +65,7 @@ This website was built to facilitate the production of wine at home in 3 simple 
 
 * Using codes from [Bootsrap](https://getbootstrap.com/) for navbar, layouts and compatibility of website on different devices
 
-* Codes from *LOVE RUNNING* project, author [Code Institute](https://codeinstitute.net/) for styling and construction of gallery.html, form.html and index.html
+* Codes from *LOVE RUNNING* project, author [Code Institute](https://codeinstitute.net/) for styling and construction of gallery.html, form.html, style.css and index.html
 
 * Using images for the website from [unsplash](https://unsplash.com/s/photos/wine)
 
@@ -74,6 +74,14 @@ This website was built to facilitate the production of wine at home in 3 simple 
 * [Google fonts](https://fonts.google.com/)
 
 * [Font Awesome](https://fontawesome.com/)
+
+## Bugs
+
+Not fixed
+
+<img src="assets/pictures/Screenshot11.jpg" alt="bugs">
+
+<img src="assets/pictures/Screenshot12.jpg" alt="bugs">
 
 
 
