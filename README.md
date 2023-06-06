@@ -1,39 +1,28 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# About Wine
 
-Welcome,
+## General information
 
-This is the Code Institute student template for Codeanywhere. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+This website was built to facilitate the production of wine at home in 3 simple steps. Contains information about the necessary equipment and its use, the choice of fruits, their preparation and the fermentation process.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **May 11th, 2023**
+## User stories
 
-## Codeanywhere Reminders
+  The purpose of this website is to provide information about the wine process.
+   Such as:
+  * home page with information about the steps taken to obtain the wine
+  * a gallery of images
+  * a sign up page to stay in contact with people who want to test the quality of the wine
+  * contact to social media pages for more information and improvements of the wine production process
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+  ## Features
 
-`python3 -m http.server`
+### Features left to implement:
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+* Another section in the *Home* page with further details in the process of making wine
+* More styling for *Section 2* situated in *index.html* for heading and paragraphs
+* Improving the performance of the website
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+## Technologies used to build
 
-`http_server`
-
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A button should appear to click: _Open Preview_ or _Open Browser_.
-
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
-
----
-
-Happy coding!
+* HTML
+* CSS
+* Bootstrap
