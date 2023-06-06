@@ -26,3 +26,25 @@ This website was built to facilitate the production of wine at home in 3 simple 
 * HTML
 * CSS
 * Bootstrap
+
+## Testing
+
+* [W3C Validator Html](https://validator.w3.org/) for index.html, gallery.html, form.html
+
+<img src="assets/pictures/Screenshot7.jpg" alt="index.html validator">
+
+<img src="assets/pictures/Screenshot8.jpg" alt="gallery.html validator">
+
+<img src="assets/pictures/Screenshot9.jpg" alt="form.html validator">
+
+* [W3C CSS Validation](https://jigsaw.w3.org/css-validator/)
+
+<img src="assets/pictures/Screenshot10.jpg" alt="css validator">
+
+* Tested on Google Chrome for performance and compatibility on media devices
+
+<img src="assets/pictures/Screenshot1.jpg" alt="css validator">
+
+<img src="assets/pictures/Screenshot4.jpg" alt="css validator">
+
+* Tested manual on Firefox and Microsoft Edge
