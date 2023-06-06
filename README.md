@@ -48,3 +48,6 @@ This website was built to facilitate the production of wine at home in 3 simple 
 <img src="assets/pictures/Screenshot4.jpg" alt="css validator">
 
 * Tested manual on Firefox and Microsoft Edge
+
+## Code
+
